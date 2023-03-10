@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.sub-block{
+    border: 1px solid blue;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sub-block img{
+    width: 200px;
+    height: 200px;
+    transition: all 3s;
+}
+
+.sub-block h3{
+    color: brown;
+    text-transform: uppercase;
+}
+
+.sub-block img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+#parent .main-block{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 60px;
+}
+
+.moviehead{
+    text-align: center;
+    color: red;
+    text-shadow: 10px 20px 8px blueviolet;
+}
