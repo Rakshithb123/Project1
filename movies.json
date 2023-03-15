@@ -215,6 +215,35 @@
         "actor":"Sri muruli",
         "yor":2014
 
+    },
+    {
+        "image1":"https://upload.wikimedia.org/wikipedia/en/e/ef/Inspector_Vikram_film.jpg",
+        "name":"Inspector vikram",
+        "actor":"Prajwal Devraj",
+        "yor":2022
+
+    },
+    {
+        "image1":"https://images-na.ssl-images-amazon.com/images/S/pv-target-images/82f8c5dcaeee975c05ce6acf3fecc82a06a865f4155bafda3ad5fe570ddfffa4._RI_V_TTW_.jpg",
+        "name":"Charlie 777",
+        "actor":"Rakshith shetty",
+        "yor":2022
+
+    },
+    {
+        "image1":"https://m.media-amazon.com/images/M/MV5BMTc4ODA2MjQyMF5BMl5BanBnXkFtZTgwMTY3MDI1NzM@._V1_.jpg",
+        "name":"Bell Bottom",
+        "actor":"Rishab Shetty",
+        "yor":2019
+
+    },
+    {
+        "image1":"https://c.saavncdn.com/696/Rama-Shama-Bhama-Kannada-2006-500x500.jpg",
+        "name":"Rama Shama Bhama",
+        "actor":"Ramesh Arvind",
+        "yor":2005
+
     }
+
 
 ]

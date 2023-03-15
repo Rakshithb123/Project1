@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Vishnuvardhan",
+        "image1":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRJGOMS9fSyWPm2H0OnGua-lkckZnS3wC8fmIAsXscUOXTrbp8N",
+        "title":"Sahasa Simha",
+        "dob":"18-sep-1950",
+        "films":["Yajamana","Suryavamsha"],
+        "Place":"Mysore"
+    },
+    {
+        "name":"Rajkumar",
+        "image1":"https://bangaloremirror.indiatimes.com/thumb/msid-58230468,width-1200,height-900,resizemode-4/.jpg",
+        "title":"Nata Saarvabouma",
+        "dob":"24-apr-1929",
+        "films":["Bangarada manushya","Gandada gudi"],
+        "Place":"Gajanur"
+    },
+    {
+        "name":"Shankar Nag",
+        "image1":"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSJcgfrTOCfWiWuOs4wTnQDxrIzSJHwMnX_QjdwQOqr7G1pi8hi",
+        "title":"Karate King",
+        "dob":"9-nov-1954",
+        "films":["Auto raja","Moogana Sedu"],
+        "Place":"Uttara kannada"
+    },
+    {
+        "name":"Ambarish",
+        "image1":"https://images.indianexpress.com/2018/11/ambareesh-75911.jpg",
+        "title":"Rebel Star",
+        "dob":"29-may-1952",
+        "films":["Antha","Habba"],
+        "Place":"Mandya"
+    },
+    {
+        "name":"Darshan",
+        "image1":"https://www.themoviedb.org/t/p/w500/9kfjzl9jFDEU4ZE0KJfrZVg6mFC.jpg",
+        "title":"Challenging Star",
+        "dob":"16-feb-1977",
+        "films":["Sangolli rayanna","Sarathi"],
+        "Place":"Mysore"
+    },
+    {
+        "name":"Sudeep",
+        "image1":"https://akm-img-a-in.tosshub.com/indiatoday/images/story/202004/BeFunky-collage__51_.jpeg?size=690:388",
+        "title":"Baadshah",
+        "dob":"2-sep-1973",
+        "films":["Ranna","My Autograph"],
+        "Place":"Shivamogga"
+    }
+]

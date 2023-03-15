@@ -222,6 +222,34 @@ const Moviesdata=(props)=>{
                     <h4>{props.data[30].actor}</h4>
                     <h4>{props.data[30].yor}</h4>
                     </div>
+
+                    <div className="sub-block">
+                    <img src={props.data[31].image1} alt="film" />
+                    <h3>{props.data[31].name}</h3>
+                    <h4>{props.data[31].actor}</h4>
+                    <h4>{props.data[31].yor}</h4>
+                    </div>
+
+                    <div className="sub-block">
+                    <img src={props.data[32].image1} alt="film" />
+                    <h3>{props.data[32].name}</h3>
+                    <h4>{props.data[32].actor}</h4>
+                    <h4>{props.data[32].yor}</h4>
+                    </div>
+
+                    <div className="sub-block">
+                    <img src={props.data[33].image1} alt="film" />
+                    <h3>{props.data[33].name}</h3>
+                    <h4>{props.data[33].actor}</h4>
+                    <h4>{props.data[33].yor}</h4>
+                    </div>
+
+                    <div className="sub-block">
+                    <img src={props.data[34].image1} alt="film" />
+                    <h3>{props.data[34].name}</h3>
+                    <h4>{props.data[34].actor}</h4>
+                    <h4>{props.data[34].yor}</h4>
+                    </div>
                 </div>
               </div>
     )
